@@ -110,7 +110,7 @@ author:
   name             : "IMSYAD"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A part of Esport Box 420"
-  location         : "**Bogor**, Indonesia."
+  location         : "Bogor, Indonesia."
   email            :
   links:
     - label: "Email"
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "www.instagram.com/imsyad"
 
 
 # Reading Files
